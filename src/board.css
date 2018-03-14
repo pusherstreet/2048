@@ -1,0 +1,6 @@
+.board tr td{
+    border: 1px solid black;
+}
+.board{
+    border-collapse: collapse;
+}
